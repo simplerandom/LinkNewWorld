@@ -37,7 +37,7 @@
         <td>2</td>
 		<td>Outlook邮箱</td>
 		<td>simple_random@outlook.com</td>
-		<td>simplerandom</td>
+		<td>simplerandom,gitee:limakilo</td>
         </tr>
 	 <tr>
         <td>3</td>
