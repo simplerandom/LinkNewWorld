@@ -22,8 +22,7 @@
 [https://autumnfish.cn/api/joke](https://autumnfish.cn/api/joke)
 # 10浏览器插件网站
 [https://www.extfans.com/](https://www.extfans.com/)
-
-        <table style="font-size: 30px;text-align: center;">
+<table style="font-size: 30px;text-align: center;">
             <tr class="th">
                 <th>序号</th>
                 <th>产品名</th>
